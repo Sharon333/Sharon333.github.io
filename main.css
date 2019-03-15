@@ -1,13 +1,12 @@
 html {
-    background: #FFFFFF;
-    
+    background: #66B3FF;
     -webkit-font-smoothing: antialiased;
 }
 
 body {
     background: #E0E0E0;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    color: navy;
+    color: black;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
